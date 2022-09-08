@@ -9,5 +9,5 @@ How to Run the French Vocabulary Memorization Software:
 7. Go to the Tools section of Android Studio and open the AVD Manager.
 8. Press the button to create a new virtual device.
 9. Follow the resulting installation wizard to install an emulator of a Google Pixel 2.
-10. Start up the emulator using the green arrow on the right of the screen.
-11. Press the green arrow on the toolbar of Android Studio to run main.dart
+10. Start up the emulator using the green arrow on the top right of the screen.
+11. Press the green arrow on the bottom toolbar of Android Studio to run main.dart

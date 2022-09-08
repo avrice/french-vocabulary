@@ -7,7 +7,7 @@ How to Run the French Vocabulary Memorization Software:
 5. Download and unzip the contents of this repositiory.
 6. Double-click on src.zip in the src folder to unzip its contents.
 7. Paste the resulting src folder in the following directory: C:\Users\[Your Username]\AndroidStudioProjects
-8. Restart Android Studio.
+8. Restart Android Studio and open the project labelled 'src'.
 9. Go to the Tools section of Android Studio and open the AVD Manager.
 10. Press the button to create a new virtual device.
 11. Follow the resulting installation wizard to install an emulator of a Google Pixel 2.
